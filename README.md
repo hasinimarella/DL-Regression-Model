@@ -130,10 +130,9 @@ plt.show()
 
 <img width="742" height="577" alt="image" src="https://github.com/user-attachments/assets/08336734-f560-4660-8b90-377bb00a0513" />
 
+<img width="785" height="535" alt="Screenshot 2025-08-26 134409" src="https://github.com/user-attachments/assets/232563b1-aeef-45db-bdbc-804619c56464" />
 
 ### New Sample Data Prediction
-
-<img width="188" height="35" alt="image" src="https://github.com/user-attachments/assets/88546752-08e8-4be0-8649-61ae92b68e1f" />
 
 <img width="493" height="80" alt="image" src="https://github.com/user-attachments/assets/5574d320-19ec-447c-a585-821e3065aa0c" />
 
